@@ -1,6 +1,6 @@
 {
  "instance": {
-  "College-of-DuPage-20200630-Annual-Accounts REVISED.html": {
+  "OAKTON-20200630.html": {
    "axisCustom": 0,
    "axisStandard": 9,
    "contextCount": 38,
@@ -13,7 +13,7 @@
     },
     "inline": {
      "local": [
-      "College-of-DuPage-20200630-Annual-Accounts REVISED.html"
+      "OAKTON-20200630.html"
      ]
     },
     "labelLink": {
@@ -83,7 +83,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -114,7 +114,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "D20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -145,7 +145,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -173,7 +173,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "lang": null,
@@ -197,7 +197,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20180630_NameOfOtherNoncurrentAssetsDomain_Student_loans_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -228,7 +228,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_NameOfOtherDeferredOutflowsOfResourcesDomain_OPEB_plan_-_College_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -257,7 +257,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_NameOfOtherDeferredOutflowsOfResourcesDomain_OPEB_plan_-_College_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -282,7 +282,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -313,7 +313,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20180630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -344,7 +344,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20180630_NameOfOtherNoncurrentAssetsDomain_Student_loans_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -375,7 +375,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember_NameOfOtherDeferredInflowsOfResourcesDomain_College_OPEB_plan",
       "decimals": "0",
       "first": true,
@@ -404,7 +404,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember_NameOfOtherDeferredInflowsOfResourcesDomain_College_OPEB_plan",
       "decimals": "0",
       "first": true,
@@ -429,7 +429,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember_NameOfOtherRestrictedComponentsOfNetPositionDomain_Specific_purposes",
       "decimals": "0",
       "first": true,
@@ -458,7 +458,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember_NameOfOtherRestrictedComponentsOfNetPositionDomain_Specific_purposes",
       "decimals": "0",
       "first": true,
@@ -483,7 +483,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "D20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -512,7 +512,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "D20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -537,7 +537,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "D20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -568,7 +568,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -597,7 +597,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -622,7 +622,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -650,7 +650,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember_NameOfOtherCashFlowsFromOperatingActivitiesDomain_Auxiliary_enterprise_charges",
       "decimals": "0",
       "lang": null,
@@ -674,7 +674,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20180630_BusinessTypeActivitiesMember_NameOfOtherCashFlowsFromCapitalAndRelatedFinancingActivitiesDomain_Debt_certificate_proceeds",
       "decimals": "0",
       "first": true,
@@ -703,7 +703,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20180630_BusinessTypeActivitiesMember_NameOfOtherCashFlowsFromCapitalAndRelatedFinancingActivitiesDomain_Debt_certificate_proceeds",
       "decimals": "0",
       "first": true,
@@ -728,7 +728,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -759,7 +759,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "D20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -790,7 +790,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -821,7 +821,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -852,7 +852,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20180630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
@@ -883,7 +883,7 @@
        "body",
        "html"
       ],
-      "baseRef": "College-of-DuPage-20200630-Annual-Accounts REVISED.html",
+      "baseRef": "OAKTON-20200630.html",
       "contextRef": "I20200630_BusinessTypeActivitiesMember",
       "decimals": "0",
       "first": true,
