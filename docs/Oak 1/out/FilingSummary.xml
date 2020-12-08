@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FilingSummary>
+  <Version>3.20.1</Version>
+  <ProcessingTime/>
+  <ReportFormat>none</ReportFormat>
+  <ContextCount>38</ContextCount>
+  <ElementCount>97</ElementCount>
+  <EntityCount>1</EntityCount>
+  <FootnotesReported>false</FootnotesReported>
+  <SegmentCount>9</SegmentCount>
+  <ScenarioCount>0</ScenarioCount>
+  <TuplesReported>false</TuplesReported>
+  <UnitCount>1</UnitCount>
+  <MyReports>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>100000 - Statement of Net Position</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/NetPosition</Role>
+      <ShortName></ShortName>
+      <MenuCategory>Cover</MenuCategory>
+      <Position>1</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>100400 - Net Position - Other Noncurrent Assets (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/NetPositionOtherNoncurrentAssets</Role>
+      <ShortName>Other Noncurrent Assets (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>2</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>100600 - Net Position - Other Deferred Outflows (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/NetPositionOtherDeferredOutflows</Role>
+      <ShortName>Other Deferred Outflows (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>3</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>100700 - Net Position - Other Current Liabilities (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/NetPositionOtherCurrentLiabilities</Role>
+      <ShortName>Other Current Liabilities (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>4</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>100800 - Net Position - Other Noncurrent Liabilities (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/NetPositionOtherNoncurrentLiabilities</Role>
+      <ShortName>Other Noncurrent Liabilities (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>5</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>101000 - Net Position - Other Deferred Inflows (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/NetPositionOtherDeferredInflows</Role>
+      <ShortName>Other Deferred Inflows (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>6</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>200100 - Statement of Activities, General Revenues and Changes in Net Position</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/ActivitiesGeneralRevenues</Role>
+      <ShortName></ShortName>
+      <MenuCategory>Uncategorized</MenuCategory>
+      <Position>7</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>500000 - Proprietary Funds Net Position - Type of Activities</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFNetPositionActivities</Role>
+      <ShortName>Type of Activities</ShortName>
+      <MenuCategory>Cover</MenuCategory>
+      <Position>8</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>500400 - Proprietary Funds Net Position - Type of Activities Other Noncurrent Assets (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFNetPositionActivitiesOtherNoncurrentAssets</Role>
+      <ShortName>Type of Activities Other Noncurrent Assets (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>9</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>500500 - Proprietary Funds Net Position - Type of Activities Other Deferred Outflows (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFNetPositionActivitiesOtherDeferredOutflows</Role>
+      <ShortName>Type of Activities Other Deferred Outflows (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>10</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>500600 - Proprietary Funds Net Position - Type of Activities Other Current Liabilities (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFNetPositionActivitiesOtherCurrentLiabilities</Role>
+      <ShortName>Type of Activities Other Current Liabilities (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>11</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>500800 - Proprietary Funds Net Position - Type of Activities Other Noncurrent Liabilities (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFNetPositionActivitiesOtherNoncurrentLiabilities</Role>
+      <ShortName>Type of Activities Other Noncurrent Liabilities (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>12</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>501000 - Proprietary Funds Net Position - Type of Activities Other Deferred Inflows (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFNetPositionActivitiesOtherDeferredInflows</Role>
+      <ShortName>Type of Activities Other Deferred Inflows (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>13</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>501100 - Proprietary Funds Net Position - Type of Activities Other Restricted Components of Net Position (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFNetPositionActivitiesOtherRestrictedNetPosition</Role>
+      <ShortName>Type of Activities Other Restricted Components of Net Position (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>14</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>600000 - Proprietary Funds Revenues Expenses and Change in Fund Net Position - Type of Activities</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFRevenuesExpensesActivities</Role>
+      <ShortName>Type of Activities</ShortName>
+      <MenuCategory>Uncategorized</MenuCategory>
+      <Position>15</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>601000 - Proprietary Funds Revenues Expenses and Change in Fund Net Position - Type of Activities Other Operating Revenues (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFRevenuesExpensesActivitiesOperatingRevenues</Role>
+      <ShortName>Type of Activities Other Operating Revenues (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>16</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>700000 - Proprietary Funds Cash Flows - Type of Activities</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFCashActivities</Role>
+      <ShortName>Type of Activities</ShortName>
+      <MenuCategory>Uncategorized</MenuCategory>
+      <Position>17</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>701000 - Proprietary Funds Cash Flows - Type of Activities Other Operating Activities (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFCashActivitiesOperating</Role>
+      <ShortName>Type of Activities Other Operating Activities (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>18</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>703000 - Proprietary Funds Cash Flows - Type of Activities Other Capital Financing Activities (Details)</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/PFCashActivitiesCapitalFinancing</Role>
+      <ShortName>Type of Activities Other Capital Financing Activities (Details)</ShortName>
+      <MenuCategory>Details</MenuCategory>
+      <Position>19</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>806000 - California Statement of Net Position</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/CaliforniaNetPosition</Role>
+      <ShortName></ShortName>
+      <MenuCategory>Uncategorized</MenuCategory>
+      <Position>20</Position>
+    </Report>
+    <Report instance="College-of-DuPage-20200630-Annual-Accounts REVISED.html">
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>808000 - California Statement of Activities, General Revenues and Changes in Net Position</LongName>
+      <ReportType>Sheet</ReportType>
+      <Role>http://xbrl.us/cafr/v0.3/2020-05-01/roles/CaliforniaActivitiesGeneralRevenues</Role>
+      <ShortName></ShortName>
+      <MenuCategory>Cover</MenuCategory>
+      <Position>21</Position>
+    </Report>
+    <Report>
+      <IsDefault>false</IsDefault>
+      <HasEmbeddedReports>false</HasEmbeddedReports>
+      <LongName>All Reports</LongName>
+      <ReportType>Book</ReportType>
+      <ShortName>All Reports</ShortName>
+    </Report>
+  </MyReports>
+  <Logs>
+    <Log type="Error">[EFM.6.07.12] The definition ''200100 - Statement of Activities, General Revenues and Changes in Net Position'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/ActivitiesGeneralRevenues does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''101200 - Statement of Net Position, Component Unit'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/NetPositionComponentUnit does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''900010 - Single Audit General Information Auditee DUNS Continuation List'' of role http://xbrl.us/sap/v0.3/2020-05-01/roles/SingleAuditGeneralDUNSContinuationList does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''300000 - Governmental Funds Balance Sheet'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/GovFundsBalance does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''903000 - Single Audit Schedule Cluster Totals'' of role http://xbrl.us/sap/v0.3/2020-05-01/roles/SingleAuditClusterTotals does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''400000 - Governmental Funds Statement of Revenues, Expenditures and Changes in Fund Balances'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/GovFundsRevenuesExpenditures does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''830000 - California OPEB Plan'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/CaliforniaOPEBPlan does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''907000 - Single Audit Information from Schedule of Findings and Questioned Costs'' of role http://xbrl.us/sap/v0.3/2020-05-01/roles/SingleAuditScheduleFindingsAndQuestionedCosts does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''307000 - Governmental Funds Balance Sheet Totals (Details)'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/GovFundsBalanceDeferredInflows does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''800000 - Pension Plan'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/Pension does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''806000 - California Statement of Net Position'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/CaliforniaNetPosition does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''902000 - Single Audit Schedule of Findings and Questioned Costs'' of role http://xbrl.us/sap/v0.3/2020-05-01/roles/SingleAuditScheduleFindings does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''904000 - Single Audit Schedule Federal Awarding Agency Totals'' of role http://xbrl.us/sap/v0.3/2020-05-01/roles/SingleAuditFederalAgencyTotals does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''820000 - California Pension Plan'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/CaliforniaPensionPlan does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''807000 - California Statement of Activities, Expenses and Revenues for Programs'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/CaliforniaActivitiesExpensesAndRevenues does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''808000 - California Statement of Activities, General Revenues and Changes in Net Position'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/CaliforniaActivitiesGeneralRevenues does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''905000 - Single Audit Schedule Subprogram Identifier'' of role http://xbrl.us/sap/v0.3/2020-05-01/roles/SingleAuditSubprogram does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''404000 - Governmental Funds Statement of Revenues, Expenditures Totals (Details)'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/GovFundRevenuessExpendituresTotals does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''809000 - California Governmental Funds Balance Sheet'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/CaliforniaGovBalanceSheet  does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''200700 - Statement of Activities, General Revenues and Changes in Net Position, Component Unit'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/ActivitiesGeneralRevenuesComponentUnit does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''900000 - Single Audit General Information'' of role http://xbrl.us/sap/v0.3/2020-05-01/roles/SingleAuditGeneralInformation does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''200600 - Statement of Activities, Expenses and Revenues for Programs, Component Unit'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/ActivitiesExpensesAndRevenuesForProgramsComponentUnit does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''906000 - Single Audit Notes to the SEFA'' of role http://xbrl.us/sap/v0.3/2020-05-01/roles/SingleAuditSEFANotes does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''200000 - Statement of Activities, Expenses and Revenues for Programs'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/ActivitiesExpensesAndRevenuesForPrograms does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''801000 - OPEB Plan'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/OPEB does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''100000 - Statement of Net Position'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/NetPosition does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''900020 - Single Audit General Information Auditee EIN Continuation List'' of role http://xbrl.us/sap/v0.3/2020-05-01/roles/SingleAuditGeneralEINContinuationList does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''901000 - Single Audit Schedule of Expenditures of Federal Awards and Major Programs'' of role http://xbrl.us/sap/v0.3/2020-05-01/roles/SingleAuditScheduleExpenditures does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Error">[EFM.6.07.12] The definition ''810000 - California Governmental Funds Statement of Revenues, Expenditures and Changes in Fund Balances'' of role http://xbrl.us/cafr/v0.3/2020-05-01/roles/CaliforniaGovStatementofRevenuesExpenditures does not match the expected format. Please check that the definition matches {number} - {type} - {text}. - College-of-DuPage-20200630-Annual-Accounts REVISED.html  - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Warning">[rq-2601-All-Facts-Filtered] The presentation group '''' contains cafr:ComponentUnitDiscretelyPresentedAxis, which has (have) no default member in the presentation group. Since every fact in the group is defaulted on this (these) axis (axes), all facts have been filtered out. - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Warning">[rq-2601-All-Facts-Filtered] The presentation group ''Other Noncurrent Assets Component Unit (Details)'' contains cafr:ComponentUnitDiscretelyPresentedAxis, which has (have) no default member in the presentation group. Since every fact in the group is defaulted on this (these) axis (axes), all facts have been filtered out. - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Warning">[rq-2601-All-Facts-Filtered] The presentation group ''Other Deferred Outflows Component Unit (Details)'' contains cafr:ComponentUnitDiscretelyPresentedAxis, which has (have) no default member in the presentation group. Since every fact in the group is defaulted on this (these) axis (axes), all facts have been filtered out. - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Warning">[rq-2601-All-Facts-Filtered] The presentation group ''Other Current Liabilities Component Unit (Details)'' contains cafr:ComponentUnitDiscretelyPresentedAxis, which has (have) no default member in the presentation group. Since every fact in the group is defaulted on this (these) axis (axes), all facts have been filtered out. - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Warning">[rq-2601-All-Facts-Filtered] The presentation group ''Other Noncurrent Liabilities Component Unit (Details)'' contains cafr:ComponentUnitDiscretelyPresentedAxis, which has (have) no default member in the presentation group. Since every fact in the group is defaulted on this (these) axis (axes), all facts have been filtered out. - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Warning">[rq-2601-All-Facts-Filtered] The presentation group ''Other Deferred Inflows Component Unit (Details)'' contains cafr:ComponentUnitDiscretelyPresentedAxis, which has (have) no default member in the presentation group. Since every fact in the group is defaulted on this (these) axis (axes), all facts have been filtered out. - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+    <Log type="Warning">[rq-2601-All-Facts-Filtered] The presentation group '''' contains cafr:ComponentUnitDiscretelyPresentedAxis, which has (have) no default member in the presentation group. Since every fact in the group is defaulted on this (these) axis (axes), all facts have been filtered out. - College-of-DuPage-20200630-Annual-Accounts REVISED.html </Log>
+  </Logs>
+  <InputFiles>
+    <File doctype="(Source)" original="College-of-DuPage-20200630-Annual-Accounts REVISED.html">College-of-DuPage-20200630-Annual-Accounts REVISED.html</File>
+  </InputFiles>
+  <SupplementalFiles/>
+  <BaseTaxonomies>
+    <BaseTaxonomy>http://xbrl.us/sap/v0.3/2020-05-01/sap</BaseTaxonomy>
+    <BaseTaxonomy>http://xbrl.us/cafr/v0.3/2020-05-01/cafr</BaseTaxonomy>
+  </BaseTaxonomies>
+  <HasPresentationLinkbase>false</HasPresentationLinkbase>
+  <HasCalculationLinkbase>false</HasCalculationLinkbase>
+</FilingSummary>
